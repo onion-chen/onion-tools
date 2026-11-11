@@ -1,0 +1,82 @@
+[
+  {
+    "id": "seed-github",
+    "name": "GitHub",
+    "url": "https://github.com",
+    "description": "代码托管与协作平台，管理仓库、Issue 和 Pull Request。",
+    "category": "开发工具",
+    "icon": "🐙",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "seed-mdn",
+    "name": "MDN Web Docs",
+    "url": "https://developer.mozilla.org",
+    "description": "Web 标准与 API 的权威参考文档。",
+    "category": "开发工具",
+    "icon": "📚",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "seed-caniuse",
+    "name": "Can I use",
+    "url": "https://caniuse.com",
+    "description": "查询前端特性在各浏览器中的兼容性。",
+    "category": "开发工具",
+    "icon": "✅",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "seed-chatgpt",
+    "name": "ChatGPT",
+    "url": "https://chatgpt.com",
+    "description": "OpenAI 的通用对话助手。",
+    "category": "AI 工具",
+    "icon": "🤖",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "seed-figma",
+    "name": "Figma",
+    "url": "https://www.figma.com",
+    "description": "在线协作设计工具，做界面与原型。",
+    "category": "设计资源",
+    "icon": "🎨",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "seed-excalidraw",
+    "name": "Excalidraw",
+    "url": "https://excalidraw.com",
+    "description": "手绘风格的在线白板，画架构图和草图很快。",
+    "category": "设计资源",
+    "icon": "✏️",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "seed-tinypng",
+    "name": "TinyPNG",
+    "url": "https://tinypng.com",
+    "description": "在线压缩 PNG / WebP / JPEG 图片。",
+    "category": "效率办公",
+    "icon": "🖼️",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "seed-notion",
+    "name": "Notion",
+    "url": "https://www.notion.so",
+    "description": "文档、知识库与项目管理一体的协作空间。",
+    "category": "效率办公",
+    "icon": "📝",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  }
+]
